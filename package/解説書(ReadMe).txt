@@ -1,134 +1,135 @@
 *****************************************************
-*�@�@�@�@�@�@�@BURNING MONKEY ver.1.00�@�@�@�@�@�@�@*
+*　　　　　　　BURNING MONKEY ver.1.00　　　　　　　*
 *****************************************************
 
-**********�@�@�@�@�@�@�@���߂Ɂ@�@�@�@�@�@�@**********
+**********　　　　　　　初めに　　　　　　　**********
 
-�uBURNING MONKEY�v���_�E�����[�h���Ē����A���ɂ��肪�Ƃ��������܂��B
-������o�O�C���A���t�@�N�^�����O�����s���Ă����\��ł��B
+「BURNING MONKEY」をダウンロードして頂き、誠にありがとうございます。
+今後もバグ修正、リファクタリング等を行っていく予定です。
 
-�o�O�񍐁A������A�����z���͈ȉ��܂ł��肢���܂��B
-twitter : �������݁@@osashimirg
+バグ報告、ご質問、ご感想等は以下までお願いします。
+twitter : おさしみ　@osashimirg
+github  : Takaya Ohnishi
 
-**********�@�@�@�@�@�Q�[���Ɋւ��ā@�@�@�@�@**********
+**********　　　　　ゲームに関して　　　　　**********
 
-�{�Q�[���́A�����S����n�����A�N�V�����Q�[�ł��B
-���肭��N���̑�R����������S���W�߂܂��傤�B
-�܂��A���ꂼ��̃��[���h�̍Ō�ɂ͋��G���c�H(�X�g�[���[���[�h)
+本ゲームは、リンゴ回収系避けアクションゲーです。
+迫りくるクモの大軍を避けつつリンゴを集めましょう。
+また、それぞれのワールドの最後には強敵も…？(ストーリーモード)
 
-***�@�@��{����(���j���[)�@�@***
+***　　基本操作(メニュー)　　***
 
-���L�[�@�@�@�F�@���ڑI��
-�X�y�[�X�L�[�@�F�@����
-E�L�[�AB�L�[�@�F�@�߂�
+矢印キー　　　：　項目選択
+スペースキー　：　決定
+Eキー、Bキー　：　戻る
 
-��ʉE���Ɍy���}�j���A����\�������Ă��܂��B
+画面右下に軽いマニュアルを表示させています。
 
-***�@�@��{����(�Q�[����)�@�@***
+***　　基本操作(ゲーム中)　　***
 
-���L�[�@�@�@�@�@�F�@�ړ�
-�X�y�[�X�L�[�@�@�@�F�@�X���C�f�B���O
+矢印キー　　　　　：　移動
+スペースキー　　　：　スライディング
 
-***�@�@STORY�@�@***
+***　　STORY　　***
 
-�X�g�[���[���[�h�ŗV�т܂��B
-�ڕW�ƂȂ�X�R�A�������S��A�C�e�����W�߂Ă��������B
-�{�X�X�e�[�W�ł́A���܂��܂ȕ��@�Ń{�X��|���Ă��������B
-�|�������킩��Ȃ���΁uSPECIAL�v�ɂ���{�X�̃f�[�^�����Ă݂�̂����������c�H
+ストーリーモードで遊びます。
+目標となるスコア分リンゴやアイテムを集めてください。
+ボスステージでは、さまざまな方法でボスを倒してください。
+倒し方がわからなければ「SPECIAL」にあるボスのデータを見てみるのもいいかも…？
 
-***�@�@ENDLESS�@�@***
+***　　ENDLESS　　***
 
-�G���h���X���[�h�ŗV�т܂��B
-�ł��邾����������̃X�R�A���W�߂܂��傤�B
+エンドレスモードで遊びます。
+できるだけたくさんのスコアを集めましょう。
 
-***�@�@TUTORIAL�@�@***
+***　　TUTORIAL　　***
 
-�`���[�g���A���ł��B
-�V�ѕ���A�C�e���̐��������邱�Ƃ��ł��܂��B
-�X�y�[�X�L�[�Ń^�C�g���ɖ߂�܂��B
+チュートリアルです。
+遊び方やアイテムの説明を見ることができます。
+スペースキーでタイトルに戻ります。
 
-***�@�@SPECIAL�@�@***
+***　　SPECIAL　　***
 
-�X�y�V�����v�f���ӏ܂��܂��B
-�L�����N�^�[�̉摜�ƃf�[�^��������uPICTURE�v���[�h�ƁA
-�X�g�[���[���[�h�Ō������[�r�[��������uMOVIE�v���[�h������܂��B
-�X�g�[���[���[�h��i�߂�Ƃ��ꂼ��̗v�f���������Ă����܂��B
-�Ō�̃{�X��|���Ɣ閧�����������Ƃ��c�H
+スペシャル要素を鑑賞します。
+キャラクターの画像とデータを見られる「PICTURE」モードと、
+ストーリーモードで見たムービーを見られる「MOVIE」モードがあります。
+ストーリーモードを進めるとそれぞれの要素が解放されていきます。
+最後のボスを倒すと秘密が明かされるとか…？
 
-***�@�@EXIT�@�@***
+***　　EXIT　　***
 
-�Q�[�����I�����܂��B
-�Q�[�����I������ۂ́AEXIT�ŏI�����邱�Ƃ𐄏����܂��B
+ゲームを終了します。
+ゲームを終了する際は、EXITで終了することを推奨します。
 
-**********�@ �@�@�Z�[�u�f�[�^�Ɋւ��ā@�@ �@**********
+**********　 　　セーブデータに関して　　 　**********
 
-�{�Q�[���̃f�[�^�́A�X�g�[���[���[�h�̃X�e�[�W�N���A���ɃI�[�g�Z�[�u����܂��B
-�܂��A�Q�[���𐳏�ɏI�������ꍇ�̓Z�[�u�f�[�^�̃o�b�N�A�b�v���쐬���܂��B
-�Ȃ��A�Z�[�u�f�[�^�̉����񓙂͎��R�ɍs���Ă��������č\���܂���B�����ł��ˁB
+本ゲームのデータは、ストーリーモードのステージクリア時にオートセーブされます。
+また、ゲームを正常に終了した場合はセーブデータのバックアップを作成します。
+なお、セーブデータの改ざん等は自由に行っていただいて構いません。ゆるゆるですね。
 
-**********�@ �@�Z�[�u�f�[�^�����Ɋւ��� �@�@**********
+**********　 　セーブデータ復元に関して 　　**********
 
-�Q�[�����ɃZ�[�u�f�[�^��ǂݍ��߂��A�����̎w�����\�����ꂽ�ꍇ�͈ȉ��̎w����
-���������ăZ�[�u�f�[�^�𕜌����Ă��������B
+ゲーム中にセーブデータを読み込めず、復元の指示が表示された場合は以下の指示に
+したがってセーブデータを復元してください。
 
-***�@�@StageSave_backUp.txt�Ƃ����e�L�X�g�t�@�C�������݂���ꍇ�@�@*** 
-�uStageSave_backUp.txt�v���uStageSave.txt�v�Ƃ����t�@�C�����ɏ��������ăQ�[����
-�ĊJ���Ă��������B
+***　　StageSave_backUp.txtというテキストファイルが存在する場合　　*** 
+「StageSave_backUp.txt」を「StageSave.txt」というファイル名に書き換えてゲームを
+再開してください。
 
-***�@�@StageSave_backUp.txt�Ƃ����e�L�X�g�t�@�C�������݂��Ȃ��ꍇ�@�@*** 
-�uStageSave.txt�v�Ƃ����t�@�C�����̃e�L�X�g�t�@�C�����쐬���ĊJ���A�ȉ���
-�R�s�[���y�[�X�g���Ă��������B
+***　　StageSave_backUp.txtというテキストファイルが存在しない場合　　*** 
+「StageSave.txt」というファイル名のテキストファイルを作成して開き、以下を
+コピー＆ペーストしてください。
 
 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
-�R�s�y������ۑ����ăe�L�X�g�t�@�C������A�Q�[�����ĊJ���Ă��������B
+コピペしたら保存してテキストファイルを閉じ、ゲームを再開してください。
 
-**********�@ �@����A�f�ޒ񋟓��Ɋւ��� �@�@**********
+**********　 　制作、素材提供等に関して 　　**********
 
-***�@�@����E�f�U�C���E�V�i���I�E�O���t�B�b�N�@�@***
+***　　制作・デザイン・シナリオ・グラフィック　　***
 
-Takaya Onishi(�吼 �b��)
+Takaya Onishi(大西 臣弥)
 
-***�@�@BGM�ESE�@�@***
+***　　BGM・SE　　***
 
-�Ò��̉��y�H�[�l
+甘茶の音楽工房様
 http://amachamusic.chagasi.com/ 
 
-���Ƃ�јa�����y�f�ޗl
+おとわび和風音楽素材様
 https://otowabi.com/
 
-���ʉ����{�l
+効果音ラボ様
 http://soundeffect-lab.info/
 
-�t���[���ʉ��f�ށ@���炰�H���l
+フリー効果音素材　くらげ工匠様
 http://www.kurage-kosho.info/
 
-�t���[���y�f�� Senses Circuit�l
+フリー音楽素材 Senses Circuit様
 http://www.senses-circuit.com/ 
 
-�������l
+魔王魂様
 http://maoudamashii.jokersounds.com/
 
-�������ʉ��f�ޗl
+無料効果音素材様
 http://taira-komori.jpn.org/freesound.html
 
-�����뉀�l
+煉獄庭園様
 http://www.rengoku-teien.com/
 
-DOVA-SYNDROME�l
+DOVA-SYNDROME様
 http://dova-s.jp/
 
-H/MIX GALLERY�l�@�i�y�Ǘ��ҁz�H�R�T�a�l�j
+H/MIX GALLERY様　（【管理者】秋山裕和様）
 http://www.hmix.net/
 
-Music-Note.jp�l
+Music-Note.jp様
 http://www.music-note.jp/
 
-On-Jin �`���l�`�l
+On-Jin ～音人～様
 http://on-jin.com/ 
 
 
-���{�Q�[���Ɋ܂܂��e��f�[�^�̖��f�]�ڂ��֎~���Ă��܂��B�g�p�̍ۂ͂���񂭂������B
+※本ゲームに含まれる各種データの無断転載を禁止しています。使用の際はご一報ください。
 
 
 
